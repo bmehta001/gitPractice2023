@@ -1,1 +1,1 @@
-Cause merge conflict
+This did cause a merge conflict
